@@ -43,7 +43,9 @@ This provides a formal analogue of the Madhyamaka concept of emptiness:
 - `paper/` — PDF of the paper
 
 ---
-
+Gonzalez-Granda Fernandez, E. (2026).
+Non-Invertibility and Emptiness: A Formal Reconstruction of the Madhyamaka Analysis of Identity.
+Zenodo. DOI:10.5281/zenodo.19376217
 ## How to Run
 
 Example:
