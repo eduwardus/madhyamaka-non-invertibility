@@ -38,9 +38,15 @@ This provides a formal analogue of the Madhyamaka concept of emptiness:
 ## Repository Structure
 
 - `experiments/` — numerical experiments (Exp 1–9)
-- `core/` — shared functions (models, inference, metrics)
 - `figures/` — figures used in the paper
 - `paper/` — PDF of the paper
+
+---
+## Code Structure
+
+The codebase is intentionally kept simple and experiment-driven.
+
+Each script is self-contained and corresponds directly to a specific experiment in the paper. This avoids unnecessary abstraction and preserves transparency.
 
 ---
 Gonzalez-Granda Fernandez, E. (2026).
